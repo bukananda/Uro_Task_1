@@ -1,2 +1,2 @@
-# Uro_Task_1
-Tugas pertama Uro
+# Uro_Task
+Pengumpulan berbagai tugas URO
